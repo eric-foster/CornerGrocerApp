@@ -1,0 +1,2 @@
+U:\CornerGrocierApp\Debug\CornerGrocierApp.exe
+U:\CornerGrocierApp\Debug\CornerGrocierApp.pdb
